@@ -3,7 +3,7 @@
 <h3>I'm Isaac, a dedicated professional with over 8 years of experience in the service industry, including 5 years in management roles. I recently graduated from Launchcode, a St. Louis, MO bootcamp program, where I began my journey into web development. Combining my background in management with my newfound knowledge in technology, I'm now committed to establishing myself in the tech industry and leveraging my skills in a professional setting.</h3>
 
 
-<h4><p align="left">🔭 I’m currently working on a team project called TasteBuddies and a solo Budget Tracking project.
+<h4><p align="left">🔭 I recently finished working on a team project called TasteBuddies and am currently working on a solo Budget Tracking project.
     
 <p align="left">🌱 I’m currently learning Spring Security and honing my skills in API use.
     
