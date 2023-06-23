@@ -1,23 +1,44 @@
+![Full Stack Dev](https://cdn.discordapp.com/attachments/225383532850053120/1121540252826357830/Yellow_Corporate_LinkedIn_Banner.png)
 
-<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<br>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">,</h1></summary>
+  </ul>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>I'm Isaac, a dedicated professional with over 8 years of experience in the service industry, including 5 years in management roles. I recently graduated from Launchcode, a St. Louis, MO bootcamp program, where I began my journey into web development. Combining my background in management with my newfound knowledge in technology, I'm now committed to establishing myself in the tech industry and leveraging my skills in a professional setting.</h3>
+<br>
 
+<p align="center">I'm Isaac, a dedicated professional with over 8 years of experience in the service industry, including 5 years in management roles. I recently graduated from Launchcode, a St. Louis, MO bootcamp program, where I began my journey into web development. Combining my background in management with my newfound knowledge in technology, I'm now committed to establishing myself in the tech industry and leveraging my skills in a professional setting.</p>
 
-<h4><p align="left">🔭 I recently finished working on a team project called TasteBuddies and am currently working on a solo Budget Tracking project.
-    
-<p align="left">🌱 I’m currently learning Spring Security and honing my skills in API use.
-    
-<p align="left">👯 I’m looking to collaborate on any projects someone throws my way. I'm open-minded and excited to learn from different experiences.
-    
-<p align="left">🤔 I’m looking for help with transitioning into a tech job. Any guidance or advice would be greatly appreciated!
+<br>
 
-<p align="left">😄 Pronouns: He/Him
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">About Me <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="30">,</h1></summary>
+  </ul>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<h4><p align="left">-🔭 I recently finished working on a team project called TasteBuddies and am currently working on a solo Budget Tracking project.
     
-<p align="left">⚡ Fun fact: I am deeply fascinated by the world of finance and Fintech, but my enthusiasm doesn't stop there! I'm also a bona fide coffee connoisseur with a keen interest in the entire espresso journey. If you're ever in the mood for a lively conversation about innovative financial solutions or the intricacies of brewing the perfect espresso, I'm your go-to person!</p></h4>
+<p align="left">-🌱 I’m currently learning Spring Security and honing my skills in API use.
+    
+<p align="left">-👯 I’m looking to collaborate on any projects someone throws my way. I'm open-minded and excited to learn from different experiences.
+    
+<p align="left">-🤔 I’m looking for help with transitioning into a tech job. Any guidance or advice would be greatly appreciated!
+
+<p align="left">-😄 Pronouns: He/Him
+    
+<p align="left">-⚡ Fun fact: I am deeply fascinated by the world of finance and Fintech, but my enthusiasm doesn't stop there! I'm also a bona fide coffee connoisseur with a keen interest in the entire espresso journey. If you're ever in the mood for a lively conversation about innovative financial solutions or the intricacies of brewing the perfect espresso, I'm your go-to person!</p></h4>
 
 <h3 align="left">Connect with me:</h3>
 <h4>Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project. I'm excited to connect with like-minded professionals and build a strong network in the tech industry.
