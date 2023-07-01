@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/isaac-belmonte/" target"_blank">
     <img src="https://cdn.discordapp.com/attachments/225383532850053120/1123100014554652814/Yellow_Corporate_LinkedIn_Banner1.png" width="12%" valign="top">
   </a>
-  <a herf="mailto:belmontei9595@gmail.com" target"_blank>
+  <a href="mailto:belmontei9595@gmail.com" target"_blank>
     <img src="https://cdn.discordapp.com/attachments/225383532850053120/1123104718617587742/Yellow_Corporate_LinkedIn_Banner3.png" width="12%" valign="top">
   </a>
 
