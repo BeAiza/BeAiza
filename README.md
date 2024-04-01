@@ -1,14 +1,11 @@
-![Full Stack Dev](https://cdn.discordapp.com/attachments/225383532850053120/1121540252826357830/Yellow_Corporate_LinkedIn_Banner.png)
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-belmonte/" target"_blank">
-    <img src="https://cdn.discordapp.com/attachments/225383532850053120/1123100014554652814/Yellow_Corporate_LinkedIn_Banner1.png" width="12%" valign="top">
-  </a>
-   <a href="https://twitter.com/AizaDigital" target"_blank>
-    <img src="https://cdn.discordapp.com/attachments/225383532850053120/1124502596875472906/Yellow_Corporate_LinkedIn_Banner6.png" width="12%" valign="top">
+    <img src="https://cdn.discordapp.com/attachments/1065785328432070796/1224170049003061269/images.png?ex=661c8433&is=660a0f33&hm=a2f3bf1b982e1622d1ec632cf6aef9198bda94d7f687642c9b91a2c3ef163901&" width="5%" valign="top">
   </a>
   <a href="mailto:belmontei9595@gmail.com" target"_blank>
-    <img src="https://cdn.discordapp.com/attachments/225383532850053120/1124503616724664430/Yellow_Corporate_LinkedIn_Banner8.png" width="12%" valign="top">
+     <img src="https://cdn.discordapp.com/attachments/1065785328432070796/1224171685209575504/google-gmail-symbol-logo-white-design-illustration-with-black-background-free-vector.jpg?ex=661c85b9&is=660a10b9&hm=1a4cf6835489c152656e90b8ff82915f852ab96e4398eca841e5e8d760606bef&" width="6%" valign="top">
   </a>
 
   
